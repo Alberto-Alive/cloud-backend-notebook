@@ -8,7 +8,7 @@ It’s designed to be:
 - **Showable** – something I can share with interviewers/recruiters as proof of how I learn  
 - **Reusable** – generic enough for consulting, SaaS, and product roles
 
-The prep is split into **core modules** (what I focus on in 4 days) and **stretch modules** (nice-to-have if I continue after the sprint).
+The prep is split into **core modules** and **stretch modules**.
 
 ---
 
