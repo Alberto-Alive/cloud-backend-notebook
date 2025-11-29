@@ -49,3 +49,11 @@ Data types:
 | set    | `{...}` |
 | object | `<...>` |
 
+
+### 3.2 Validation
+
+- validate tpes (strings, ints, dates,..)
+- validate ranges and formats (min/max, regex)
+- provide clear error messages for clients
+
+FastAPI automatically returns 422 with a structured error body when validation fails (unprocessable Entity - validation failed)
